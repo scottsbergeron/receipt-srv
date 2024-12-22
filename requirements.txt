@@ -1,6 +1,6 @@
-fastapi>=0.68.0
-python-multipart  # for handling file uploads
-uvicorn          # ASGI server
-pillow           # image processing
-pytesseract      # OCR
-python-dotenv    # environment variables
+fastapi==0.109.0
+python-multipart==0.0.6
+uvicorn==0.27.0
+pillow==10.2.0
+pytesseract==0.3.10
+python-dotenv==1.0.0
