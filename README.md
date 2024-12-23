@@ -35,7 +35,7 @@ cd receipt-parser
 docker compose up --build
 ```
 
-he API will be available at `http://localhost:8000`
+The API will be available at `http://localhost:8000`
 
 ### API Usage
 
