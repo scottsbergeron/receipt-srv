@@ -32,7 +32,7 @@ cd receipt-parser
 2. Start the service using Docker Compose:
 
 ```bash
-docker compose up --build
+docker-compose up --build
 ```
 
 The API will be available at `http://localhost:8000`
