@@ -24,16 +24,14 @@ A FastAPI-based service that processes receipt images using OCR (Optical Charact
 
 1. Clone the repository:
 
-```
-bash
+```bash
 git clone <repository-url>
 cd receipt-parser
 ```
 
 2. Start the service using Docker Compose:
 
-```
-bash
+```bash
 docker compose up --build
 ```
 
